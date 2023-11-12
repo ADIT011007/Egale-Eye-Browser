@@ -1,0 +1,60 @@
+Welcome to the Nexus Browser documentation. Here, you'll find assistance for every possible problem and gain comprehensive knowledge about the browser. Our documentation serves as a one-stop solution for all your queries and provides you with in-depth information about every feature and functionality of the browser.
+
+Functions :
+
+1 : The icon with the left-pointing arrow (←) allows you to navigate to the previous page that was loaded in the browser. This icon is disabled until you load a page or until there is a page to go back to, the icon will be enabled for use.
+
+2  :The icon with the right-pointing arrow (→) allows you to navigate to the next page that was loaded in the browser. This icon is disabled until you load a page and navigate back to the previous page, or until a page is available to be reloaded that was previously unloaded. Once a page is available, the icon will be enabled for use.
+
+3 : The third button from the left is the reload button. It allows you to reload the page or URL and is always enabled, providing you with a convenient way to refresh the content displayed in the browser.
+
+4 : The "X" button is used to stop the loading of a URL or webpage. This button is disabled until the browser starts loading a page. It's important to note that this button only works while the browser is loading a page; it will be disabled if the page is already loaded.
+
+5 : The home button is located fifth from the left and allows you to quickly navigate back to your default search engine, such as Google. It's important to note that this button will only work if you have set your default search engine from the user control panel.
+
+6 : The seventh button is a label that displays your name. Upon fresh installation, the label will show "Click Me" for the first time. Once clicked, it will take you to the user control panel, from where you can customize the browser as per your preferences.
+
+Once you've added your name, simply open a new tab to display your name and load pages. If you click on your username, it will take you to the control center for the user, providing you with quick access to the browser's  customization options.
+
+7 : The settings icon is where you can access and change various settings for your browser.
+
+( i ) Under the "Actions" option, you will find several features, including:
+
+Take screenshots: This option allows you to capture a screenshot of the entire display.
+
+Mute audio for the current tab: If you are playing audio on the selected tab and want to mute it, this feature allows you to do so. Other tabs will continue to output audio.
+
+Disable security check: This feature allows you to disable the security check for URLs. If you are loading a non-HTTPS site, the browser will normally issue a warning. However, if you disable this check, there will be no warning or sign of detection.
+
+Shutdown browser: This option will close the browser and dispose of all unnecessary resources, allowing you to exit the application smoothly.
+
+
+( ii ) About Browser a button that will take you to a page where you can see every detail of the browser. This page includes information such as the version number, release date, and any other pertinent details about the browser.
+
+(iii) "Open Control Panel" is a button that will open the control panel of the browser. Here, you can set the performance mode, view the CPU and RAM usage .
+
+( iV ) The "Open Nexus Cleaner" button opens the Nexus Cleaner, which allows the user to perform various cleaning operations such as clearing the cache, cookies, and visited links. Additionally, the Nexus Cleaner offers a full reset option that enables the user to restore the browser to its default settings.
+
+( v ) In addition to the settings option, there is also a performance button that allows the user to set the priority of the browser. By selecting a specific option, the browser will request more or fewer resources from both the software and hardware perspectives. This feature enables users to optimize their browsing experience and enhance their productivity by allocating the appropriate resources to the browser.
+
+
+
+8 : The game controller icon represents a collection of browser games categorized into various genres such as IO games, strategy games, and more. This feature enables users to play games directly from the browser, without having to download any additional software or applications. Whether you are looking for a quick casual game or a more in-depth gaming experience, the browser games library has something for everyone.
+
+9 : The icon located after the game controller represents a collection of popular online audio streaming services that work directly within the browser, including the built-in Radio SA . With a wide range of streaming services available, users can easily find the perfect audio content to suit their preferences.
+ 
+10 : Two buttons with small blank circles. The buttons are labeled "Google Search" and "URL". When a user selects one of the buttons, a blue dot appears on the left side of the option to indicate that it has been selected.
+
+The "Google Search" button allows you to search on Google.com without loading the Google homepage first. You can directly search on Google from any website by selecting the Google Search button and typing in what you want to search in the text box.
+
+The "URL" button allows you to load a specific URL by typing it in the text box and hitting "Enter". This is useful when you want to go directly to a specific webpage without having to search for it on a search engine.
+
+11 : The lock icon indicates the security status of the website you are visiting. If the lock is unlocked, it means the website is using HTTP instead of the more secure HTTPS protocol. If the lock is locked, it means the website is using HTTPS and your connection is secure. However, please note that this browser does not have advanced security features to detect individual threats or warn you of potential risks.
+\\__________________________________________________________________________________________________________________________________________________________________________________________//
+
+
+
+
+
+
+
